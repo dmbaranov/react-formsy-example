@@ -9,4 +9,4 @@ To try out this example you should do the next steps:
 
 3. And the last one is ``` NODE_ENV=devel npm start ```
 
-4. Now you can open browser, go to localhost:3001/login and check this example!
+4. Now you can open browser, go to ``` localhost:3001/login ``` and check this example!
